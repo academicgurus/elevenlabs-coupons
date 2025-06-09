@@ -48,7 +48,7 @@ Below is a curated list of **active coupon codes** reported for June 2025:
 
 <p align="center">
   <a href="https://try.elevenlabs.io/jfy2knldd0f9" target="_blank">
-    <img src="https://img.shields.io/badge/GET%20DEAL-d93025?style=for-the-badge&logoColor=white" alt="Get Deal Badge" />
+    <img src="https://img.shields.io/badge/GET%20UP%20TO%2085%25%20DISCOUNT%20NOW-d93025?style=for-the-badge&logoColor=white" alt="Get Deal Badge" />
   </a>
 </p>
 
@@ -349,7 +349,7 @@ With **ongoing updates**, new voices, and support for both small teams and large
 
 <p align="center">
   <a href="https://try.elevenlabs.io/jfy2knldd0f9" target="_blank">
-    <img src="https://img.shields.io/badge/GET%20DEAL-d93025?style=for-the-badge&logoColor=white" alt="Get Deal Badge" />
+    <img src="https://img.shields.io/badge/GET%20UP%20TO%2085%25%20DISCOUNT%20NOW-d93025?style=for-the-badge&logoColor=white" alt="Get Deal Badge" />
   </a>
 </p>
 
