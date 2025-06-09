@@ -46,12 +46,12 @@ Below is a curated list of **active coupon codes** reported for June 2025:
 
 > ⚠️ Promo codes may expire or be usage-limited. Always test the code during checkout and confirm your discount before completing the purchase.
 
-<div align="center">
-  [![GET DEAL]][elevenlabs-link]
-</div>
+<p align="center">
+  <a href="https://try.elevenlabs.io/jfy2knldd0f9" target="_blank">
+    <img src="https://img.shields.io/badge/GET%20DEAL-d93025?style=for-the-badge&logoColor=white" alt="Get Deal Badge" />
+  </a>
+</p>
 
-[elevenlabs-link]: https://try.elevenlabs.io/jfy2knldd0f9 'Get your ElevenLabs discount'
-[GET DEAL]: https://img.shields.io/badge/GET_DEAL-d93025?style=for-the-badge&logoColor=white
 
 
 ## 🔊 Introduction to ElevenLabs
@@ -347,11 +347,11 @@ With **ongoing updates**, new voices, and support for both small teams and large
 
 > 💡 **Pro Tip:** Start with the free trial to explore the quality. Then unlock full commercial rights and cloning features with one of the verified promo codes above.
 
-<div align="center">
-  [![GET DEAL]][elevenlabs-link]
-</div>
+<p align="center">
+  <a href="https://try.elevenlabs.io/jfy2knldd0f9" target="_blank">
+    <img src="https://img.shields.io/badge/GET%20DEAL-d93025?style=for-the-badge&logoColor=white" alt="Get Deal Badge" />
+  </a>
+</p>
 
-[elevenlabs-link]: https://try.elevenlabs.io/jfy2knldd0f9 'Get your ElevenLabs discount'
-[GET DEAL]: https://img.shields.io/badge/GET_DEAL-d93025?style=for-the-badge&logoColor=white
 
 
