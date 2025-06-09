@@ -1,6 +1,6 @@
 # ElevenLabs Promo Code, Free Trial & Discount Guide (2025)
 
-Looking for an ElevenLabs promo code or discount for 2025? This guide breaks down ElevenLabs’ pricing, free trial, affiliate offers, and standout features. Whether you're a content creator, developer, or marketer, this page helps you save money and get the most out of ElevenLabs' industry-leading AI voice generator.
+Looking for an ElevenLabs promo code or discount for 2025? This guide breaks down ElevenLabs' pricing, free trial, affiliate offers, and standout features. Whether you're a content creator, developer, or marketer, this page helps you save money and get the most out of ElevenLabs' industry-leading AI voice generator.
 
 | **Software Name**        | ElevenLabs                                                                      |
 |--------------------------|----------------------------------------------------------------------------------|
@@ -47,10 +47,11 @@ Below is a curated list of **active coupon codes** reported for June 2025:
 > ⚠️ Promo codes may expire or be usage-limited. Always test the code during checkout and confirm your discount before completing the purchase.
 
 <div align="center">
-  <a href="https://try.elevenlabs.io/jfy2knldd0f9" style="background-color: #d93025; color: white; padding: 10px 20px; font-weight: bold; text-decoration: none; border-radius: 6px;">
-    🚀 GET DEAL
-  </a>
+  [![GET DEAL]][elevenlabs-link]
 </div>
+
+[elevenlabs-link]: https://try.elevenlabs.io/jfy2knldd0f9 'Get your ElevenLabs discount'
+[GET DEAL]: https://img.shields.io/badge/GET_DEAL-d93025?style=for-the-badge&logoColor=white
 
 
 ## 🔊 Introduction to ElevenLabs
@@ -155,7 +156,7 @@ ElevenLabs offers a flexible range of pricing plans to suit everyone from solo c
 
 ## 🧬 Voice Cloning & Emotional Control
 
-One of ElevenLabs’ most powerful features is its ability to generate **custom AI voices** from short audio samples. Unlike many TTS platforms that offer only generic voice libraries, ElevenLabs lets you **clone your own voice** — or any voice you have permission to use — and control its **emotional tone** with precision.
+One of ElevenLabs' most powerful features is its ability to generate **custom AI voices** from short audio samples. Unlike many TTS platforms that offer only generic voice libraries, ElevenLabs lets you **clone your own voice** — or any voice you have permission to use — and control its **emotional tone** with precision.
 
 ### 🎤 Instant & Pro Voice Cloning
 
@@ -208,14 +209,14 @@ You can control the **style and emotion** of the voice, adjusting parameters suc
 
 ### 🆓 ElevenLabs Free Trial
 
-Don’t want to pay yet? Start with the **free tier**, no credit card required:
+Don't want to pay yet? Start with the **free tier**, no credit card required:
 
 - 🔹 **10,000 characters/month**
 - 🔹 Access to 3 default voices
 - 🔹 API access for developers
 - 🔹 No commercial use or voice cloning
 
-> 💡 The free plan is perfect for testing ElevenLabs’ quality before upgrading to a paid tier with cloning, higher quality, and commercial rights.
+> 💡 The free plan is perfect for testing ElevenLabs' quality before upgrading to a paid tier with cloning, higher quality, and commercial rights.
 
 ## ❓ Frequently Asked Questions (FAQ)
 
@@ -291,7 +292,7 @@ There is no automatic overage billing — but you will be unable to generate mor
 
 ### **Q8: Can I cancel my ElevenLabs subscription anytime?**
 
-Yes. Subscriptions can be canceled at any time through your ElevenLabs account dashboard. If you cancel, your current plan remains active until the billing cycle ends. There is **no official refund policy**, so it’s best to test the free tier before upgrading.
+Yes. Subscriptions can be canceled at any time through your ElevenLabs account dashboard. If you cancel, your current plan remains active until the billing cycle ends. There is **no official refund policy**, so it's best to test the free tier before upgrading.
 
 ---
 
@@ -303,7 +304,7 @@ No. ElevenLabs currently **does not provide refunds** or money-back guarantees. 
 
 ### **Q10: Is there a student discount for ElevenLabs?**
 
-Possibly. Some users have reported receiving discounts using `.edu` email addresses or during special promotions. These offers are not consistently advertised, so it’s best to:
+Possibly. Some users have reported receiving discounts using `.edu` email addresses or during special promotions. These offers are not consistently advertised, so it's best to:
 
 - Contact support
 - Use verified affiliate codes
@@ -313,7 +314,7 @@ Possibly. Some users have reported receiving discounts using `.edu` email addres
 
 ### **Q11: Can I switch plans or upgrade later?**
 
-Yes. You can upgrade or downgrade your plan at any time from your account settings. Plan changes are applied immediately or at the end of your billing cycle, depending on the platform’s current policy.
+Yes. You can upgrade or downgrade your plan at any time from your account settings. Plan changes are applied immediately or at the end of your billing cycle, depending on the platform's current policy.
 
 ---
 
@@ -347,9 +348,10 @@ With **ongoing updates**, new voices, and support for both small teams and large
 > 💡 **Pro Tip:** Start with the free trial to explore the quality. Then unlock full commercial rights and cloning features with one of the verified promo codes above.
 
 <div align="center">
-  <a href="https://try.elevenlabs.io/jfy2knldd0f9" style="background-color: #d93025; color: white; padding: 12px 24px; font-weight: bold; font-size: 16px; text-decoration: none; border-radius: 6px;">
-    🚀 Try ElevenLabs + Get Your Discount
-  </a>
+  [![GET DEAL]][elevenlabs-link]
 </div>
+
+[elevenlabs-link]: https://try.elevenlabs.io/jfy2knldd0f9 'Get your ElevenLabs discount'
+[GET DEAL]: https://img.shields.io/badge/GET_DEAL-d93025?style=for-the-badge&logoColor=white
 
 
